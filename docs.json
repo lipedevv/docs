@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Wiki",
         "groups": [
           {
             "group": "Get Started",
@@ -58,9 +58,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Discord",
           "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "icon": "discord"
         },
         {
           "anchor": "Community",
