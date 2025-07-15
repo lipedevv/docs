@@ -59,18 +59,13 @@
       "anchors": [
         {
           "anchor": "Discord",
-          "href": "https://mintlify.com/docs",
+          "href": "https://discord.gg/neocart",
           "icon": "discord"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Instagram",
+          "href": "https://instagram.com/neocart",
+          "icon": "instagram"
         }
       ]
     }
@@ -89,7 +84,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://dashboard.neocart.net"
     }
   },
   "footer": {
